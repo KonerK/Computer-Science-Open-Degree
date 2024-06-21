@@ -1,6 +1,6 @@
 # Open CS Degree
 
-There is a lot to learn. After completing my degree in Computer Science from the University of Bath I felt as if there was still so much for me to learn with respect to the fundamentals that every Computer Scientist should understand well. So, this repository marks the online courses I am currently working through in an attempt to solidfy and develop my skills as a student of CS, mainly just for myself to maintain and keep track of all the things I want to learn. So, below is just the material that I personally want to to get through to become a better computer scientist. See ForestKnight for a) an incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full cs degree. 
+There is a lot to learn. After completing my degree in Computer Science from the University of Bath I felt as if there was still so much for me to know with respect to the fundamentals that every Computer Scientist should understand well. So, this repository marks the online courses I am currently working through in an attempt to solidfy and develop my skills as a student of CS, mainly just for myself to maintain and keep track of all the things I want to learn. So, below is just the material that I personally want to to get through to become a better computer scientist. See ForestKnight for a) an incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full cs degree. 
 
 
 # The Fundamentals (Year 1)
