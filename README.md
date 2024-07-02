@@ -22,7 +22,7 @@ The following courses tackle the above topics very well:
 
 #  Advanced Content (Year 2)
 
-### 1) Advanced Algorithms
+### 1) Advanced Algorithms & Complexity
 
 ### 2) Human-Computer Interaction
 
