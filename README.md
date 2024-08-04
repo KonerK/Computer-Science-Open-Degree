@@ -29,6 +29,10 @@ After completing my degree in Computer Science from the University of Bath I fel
 ### <ins> Human-Computer Interaction </ins>
 
 ### <ins> Machine Learning </ins>
+| Course Name                                                                       | School                         |
+| --------------------------------------------------------------------------------- | ------------------------------ |
+| [Machine Learning Specialization][1]  | Standford, DeepLearning.AI  |
+
 
 ### <ins> Visual Computing </ins>
 
@@ -37,4 +41,5 @@ After completing my degree in Computer Science from the University of Bath I fel
 [3]: https://www.coursera.org/learn/algorithms-part1
 [4]: https://www.coursera.org/learn/algorithms-part2
 [5]: https://www.coursera.org/learn/cs-algorithms-theory-machines
+[6]: https://www.coursera.org/specializations/machine-learning-introduction
 
