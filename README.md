@@ -1,6 +1,6 @@
 # Open Source Computer Science Degree
 
-After completing my degree in Computer Science from the University of Bath I felt as though there were still many fundamentals that I wanted to master. This repository marks the courses/content I am working through in an attempt to solidfy my skills as a student of CS. It's mainly a way to keep track of the I want to personally get through to become a better computer scientist. See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree. 
+After completing my Computer Science degree I felt as though there were many fundamentals I did not have time to master. This repository marks the courses I am working through in an attempt to sharpen my CS skills. It is mainly a personal repository to keep track of these courses, but see ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree. 
 
 # I - Fundamentals
 
