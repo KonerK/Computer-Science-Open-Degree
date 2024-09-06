@@ -2,15 +2,19 @@
 
 This repository is a personal marker to keep track of the courses I have completed, and am completing, in order to be a better Computer Scientist. After completeing my CS degree at the University of Bath, I felt as though there was still much for me to master, and so have set out to fill in personal gaps. This repository may serve useful to anyone similarly wanting to study computer science, but does not know where to start.
 
-I have split my learning into two parts: 'Fundamentals', topics which start to introduce essential skills in computer science (software development, system architecutre, etc), and 'Advanced', which focuses on more specialised topics, such as Machine Larning and Advanced Algorithms. It seems an interesting question, however, to ask 'What should a computer scientist know?' Although there are some common themes, there are also some slight inconsistencies. For instance, some cite cyber security as a must know skill as a computer scientist, as well being fluent in [basic unix][13], yet I was taught none of this on my degree (though cyber security seems to have been added to the course content since I have left). 
+I have split my learning into two parts: 'Fundamentals', topics which start to introduce essential skills in computer science (software development, system architecutre, etc), and 'Advanced', which focuses on more specialised topics, such as Machine Larning and Advanced Algorithms. 
 
-I really like this [post][15] on the matter, where users point out that it would be nice to define a 'minimal set' of knowledge. This minimal set, however, will likely depend on the person, the university, the country etc. My university highly valued human-computer interaction (as do I), yet other universities appear to focus less on the topic. There is a lot more to say on the matter but, essentially, this repository marks the knowledge I have set out to gain to because a better computer scientist.
 
-It is mainly a personal repository to keep track of courses I find valuable. Moreover, See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
+It seems an interesting question to ask 'What should a computer scientist know?' Although there are some common themes, there are also some slight inconsistencies. For instance, some cite cyber security as a must know skill as a computer scientist, as well being fluent in [basic unix][13], yet I was taught none of this on my degree (though cyber security seems to have been added to the course content since I have left).  This [post][15] talks about this more, and I agree that it would be highly useful to define a 'minimal set' of knowledge. This minimal set, however, will likely depend on the person, university, or country we are asking, as well as the time in which we are asking the question.
+
+My university highly valued human-computer interaction and AI (as do I) and so there was a lot of focus on these topics, yet other universities may not focus on them as much. Essentially, however, I believe that the abilitiy and desire to learn is perhaps the most important skill. A mathematician may decide that they would like to work in a field within computer science. Do they need to go learn principles of software development, cyber security, databases, machine learning, networking, HCI, etc before they transition? Clearly not. They would, likely, need to focus on ***what they need to learn*** to do good work in that field. Of course, there are many ifs and buts and so on, and there is a lot more to say on the matter but that is besides the point. 
+
+In all, then, this repository marks the knowledge I have set out to learn/sharpen to be a better computer scientist. It is mainly a personal repository to keep track of courses I find valuable. Moreover, See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
 
 # I - Fundamentals
 
 ### <ins> 1) System Architecture </ins>
+
 
 | Course Name                                                                       | School                         |
 | --------------------------------------------------------------------------------- | ------------------------------ |
