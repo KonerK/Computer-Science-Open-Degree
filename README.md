@@ -1,10 +1,12 @@
-# Open Source Computer Science Degree
+# Journey of CS
 
 This repository is a personal marker to keep track of the courses I have completed, and am completing, in order to be a better Computer Scientist. After completeing my CS degree at the University of Bath, I felt as though there was still much for me to master, and so have set out to fill in personal gaps. This repository may serve useful to anyone similarly wanting to study computer science, but does not know where to start.
 
-I have split my learning into two parts: 'Fundamentals', topics which start to introduce essential skills in computer science (software development, system architecutre, etc), and 'Advanced', which focused on more specialised topics, such as Machine Larning and Advanced Algorithms. 
+I have split my learning into two parts: 'Fundamentals', topics which start to introduce essential skills in computer science (software development, system architecutre, etc), and 'Advanced', which focuses on more specialised topics, such as Machine Larning and Advanced Algorithms. It seems an interesting question, however, to ask 'What should a computer scientist know?' Although there are some common themes, there are also some slight inconsistencies. For instance, some cite cyber security as a must know skill as a computer scientist, as well being fluent in [basic unix][13], yet I was taught none of this on my degree (though cyber security seems to have been added to the course content since I have left). 
 
-Moreover, this repository marks a journey of sharpening my CS skills. It is mainly a personal repository to keep track of courses, and books, I find interesting. See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
+I really like this [post][15] on the matter, where users point out that it would be nice to define a 'minimal set' of knowledge. This minimal set, however, will likely depend on the person, the university, the country etc. My university highly valued human-computer interaction (as do I), yet other universities appear to focus less on the topic. There is a lot more to say on the matter but, essentially, this repository marks the knowledge I have set out to gain to because a better computer scientist.
+
+It is mainly a personal repository to keep track of courses I find valuable. Moreover, See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
 
 # I - Fundamentals
 
@@ -77,5 +79,6 @@ Moreover, this repository marks a journey of sharpening my CS skills. It is main
 [12]: https://www.coursera.org/learn/introduction-to-databases
 [13]: https://matt.might.net/articles/what-cs-majors-should-know/#:~:text=There%20is%20no%20substitute%20for%20a%20solid%20understanding%20of%20computer,control%20units%2C%20caches%20and%20RAM.
 [14]: https://www.edx.org/certificates/professional-certificate/gtx-human-computer-interaction?webview=false&campaign=Human-Computer+Interaction&source=edx&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fhuman-computer-interaction
+[15]: https://news.ycombinator.com/item?id=20453241
 
 
