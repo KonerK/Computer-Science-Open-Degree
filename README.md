@@ -13,6 +13,8 @@ In all, then, this repository marks the knowledge I have set out to learn/sharpe
 
 # I - Fundamentals
 
+### <ins> 0) History of Computer Science </ins>
+
 ### <ins> 1) System Architecture </ins>
 
 
