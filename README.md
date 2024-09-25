@@ -65,6 +65,8 @@ In all, then, this repository marks the knowledge I have set out to learn/sharpe
 
 ### <ins> 5) Visual Computing & Graphics </ins>
 
+# III - Specialist
+
 
 # Additional Content
 1) [Matt Might's - What Every Computer Science Major Should Know][13]
