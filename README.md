@@ -1,3 +1,5 @@
+
+
 # Journey of CS
 
 This repository is a personal marker to keep track of the courses I have completed, and am completing, in order to be a better Computer Scientist. After completeing my CS degree at the University of Bath, I felt as though there was still much for me to master, and so have set out to fill in personal gaps. This repository may serve useful to anyone similarly wanting to study computer science, but does not know where to start.
@@ -17,21 +19,19 @@ In all, then, this repository marks the knowledge I have set out to learn/sharpe
 
 ### <ins> 1) System Architecture </ins>
 
-
-| Course Name                                                                       | School                         |
-| --------------------------------------------------------------------------------- | ------------------------------ |
-| [Build a Modern Computer from First Principles: From Nand to Tetris (Part I)][1]  | Hebrew University of Jerusalem |
-| [Build a Modern Computer from First Principles: From Nand to Tetris (Part II)][2] | Hebrew University of Jerusalem |
+| Courses | School | Duration (Hours) | Course Content|
+|:--------------------------------------------------------------------------------|:-----------------------------:|:--------:|:------------------------------------------------------------------------------------------------------|
+|[Build a Modern Computer from First Principles: From Nand to Tetris][1]          |Hebrew University of Jerusalem |43 Hours|Boolean Functions & Gate Logic, Integer Representation & the ALU, Memory, Machine Language, Modern Computer Architecture, Assemblers|
+|[Build a Modern Computer from First Principles: From Nand to Tetris (Part II)][2]| Hebrew University of Jerusalem| 89 Hours | Machine Language, Stack Arithmetic, Program Control, High Level Languages, Compilers, Operating Systems
 
 
 ### <ins> 2) Principles of Programming & Software Development </ins>
-
-| Course Name                                                                       | School                         |
-| --------------------------------------------------------------------------------- | ------------------------------ |
-| [Introduction to Software Engineering][10] | EdX                      |
-| [Programming Languages, Part A][7]         | University of Washington |
-| [Programming Languages, Part B][8]         | University of Washington |
-| [Programming Languages, Part C][9]         | University of Washington |
+| Courses | School | Duration (Hours) | Course Content
+|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:------------------------------------------------------------------------------------------------------|
+|[UBCx: Software Engineering: Introduction][10]|The University of British Colombia| 8 Weeks  | Software Processes, Specifications and Testing, High-Level Design, Lowl-Level Design, Code Construction, Information Security, Intellectual Property & Ethics |
+|[Programming Languages, Part A][7]|University of Washington | 29 Hours | Variables, Functions, Datatypes, Recursion, Maps & Filters, Closures |
+[Programming Languages, Part B][8] |University of Washington | 16 Hours | Racket Programming Language, Implementing Programming Languages using Interpreters, Static & Dynamic Typing
+[Programming Languages, Part C][9] |University of Washington | 18 Hours | Ruby, OOP, Functional Programming, Sub-typing
 
 
 
@@ -88,5 +88,3 @@ In all, then, this repository marks the knowledge I have set out to learn/sharpe
 [13]: https://matt.might.net/articles/what-cs-majors-should-know/#:~:text=There%20is%20no%20substitute%20for%20a%20solid%20understanding%20of%20computer,control%20units%2C%20caches%20and%20RAM.
 [14]: https://www.edx.org/certificates/professional-certificate/gtx-human-computer-interaction?webview=false&campaign=Human-Computer+Interaction&source=edx&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fhuman-computer-interaction
 [15]: https://news.ycombinator.com/item?id=20453241
-
-
