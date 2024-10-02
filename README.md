@@ -79,7 +79,6 @@ Further topics to be considered include: HCI, Cryptography & Computer Security, 
 [10]: https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x
 [11]: https://www.coursera.org/learn/computer-networking
 [12]: https://www.coursera.org/learn/introduction-to-databases
-[14]: 
 [15]: https://news.ycombinator.com/item?id=20453241
 [16]: https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction
 [17]: https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
