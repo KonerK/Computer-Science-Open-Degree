@@ -2,16 +2,15 @@
 
 # Journey of CS
 
-This repository is a personal marker to keep track of the courses I have completed, and am completing, in order to be a better Computer Scientist. After completeing my CS degree at the University of Bath, I felt as though there was still much for me to master, and so have set out to fill in personal gaps. This repository may serve useful to anyone similarly wanting to study computer science, but does not know where to start.
+This repository is a personal marker to keep track of the courses I have completed, or am completing, in order to be a better Computer Scientist. After completeing my CS degree at the University of Bath, I felt as though there was still much for me to master, and so have set out to fill in personal gaps. This repository may serve useful to anyone similarly wanting to study computer science, but does not know where to start.
 
 I have split my learning into a few parts: 'Fundamentals', topics which start to introduce essential skills in computer science (software development, system architecutre, etc), 'Advanced', which focuses on more advanced topics, such as Machine Learning and Advanced Algorithms, and finally 'Specialist', which focuses on topics that are really just me exploring my interests as a student of CS.
 
+I think it is an interesting question to ask 'What should a computer scientist know?' Although there are some common themes, there are also some slight inconsistencies. For instance, some cite cyber security as a must know skill as a computer scientist, as well being fluent in [basic unix][13], yet I was taught none of this on my degree (though cyber security seems to have been added to the course content since I have left).  This [post][15] talks about this more, and I agree that it would be highly useful to define a 'minimal set' of knowledge. This minimal set, however, will likely depend on the person, university, or country we are asking, as well as the time in which we are asking the question.
 
-It seems an interesting question to ask 'What should a computer scientist know?' Although there are some common themes, there are also some slight inconsistencies. For instance, some cite cyber security as a must know skill as a computer scientist, as well being fluent in [basic unix][13], yet I was taught none of this on my degree (though cyber security seems to have been added to the course content since I have left).  This [post][15] talks about this more, and I agree that it would be highly useful to define a 'minimal set' of knowledge. This minimal set, however, will likely depend on the person, university, or country we are asking, as well as the time in which we are asking the question.
+My university highly valued human-computer interaction and AI (as do I) and so there was a lot of focus on these topics, yet other universities may not focus on them as much. Essentially, however, I think the abilitiy to learn is perhaps the most important skill. A mathematician may decide that they would like to work in a field within computer science. Do they need to go learn principles of software development, cyber security, databases, machine learning, networking, HCI, etc before they transition? Clearly not. They would, likely, need to focus on ***what they need to learn*** to do good work in that field. Of course, there are many ifs and buts and so on, and there is a lot more to say on the matter but that is besides the point. 
 
-My university highly valued human-computer interaction and AI (as do I) and so there was a lot of focus on these topics, yet other universities may not focus on them as much. Essentially, however, I believe that the abilitiy and desire to learn is perhaps the most important skill. A mathematician may decide that they would like to work in a field within computer science. Do they need to go learn principles of software development, cyber security, databases, machine learning, networking, HCI, etc before they transition? Clearly not. They would, likely, need to focus on ***what they need to learn*** to do good work in that field. Of course, there are many ifs and buts and so on, and there is a lot more to say on the matter but that is besides the point. 
-
-In all, then, this repository marks the knowledge I have set out to learn/sharpen to be a better computer scientist. It is mainly a personal repository to keep track of courses I find valuable. Moreover, See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
+In all, this repository marks the knowledge I have set out to learn/sharpen to be a better computer scientist. It is mainly a personal repository to keep track of courses I find valuable. Moreover, See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
 
 # I - Fundamentals
 
@@ -34,57 +33,60 @@ In all, then, this repository marks the knowledge I have set out to learn/sharpe
 [Programming Languages, Part C][9] |University of Washington | 18 Hours | Ruby, OOP, Functional Programming, Sub-typing
 
 
-
 ### <ins> 3) Networking & Databases </ins>
-
-| Course Name                                                                       | School                         |
-| --------------------------------------------------------------------------------- | ------------------------------ |
-| [Introduction to Networking - Bits & Bytes of Networking][11]                     | Google                      |
-| [Introduction to Databases][12]                                                   | Meta |
+| Courses | School | Duration (Hours) | Course Content
+|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
+|[Introduction to Databases][12]|Meta| 5 Weeks| Overview of Databases & Data, Structure of Relational Databases, SQL Introduction & CRUD Operations, Sorting & Filtering in SQL, Database Schema, Relational Database Design, Database Normalization|
+[The Bits and Bytes of Computer Networking (Introduction to Networks)][11] | Google| 25 Hours | TCP/IP & OSI Model, Network Layer, Transport & Application Layers, Networking Services, Connecting to the Internet, Future of Networking
 
 # II - Advanced
 
-### <ins> 1) Advanced Algorithms & Complexity & Theory of Computation </ins>
+### <ins> 1) Advanced Algorithms
 
-| Course Name                                                                       | School                         |
-| --------------------------------------------------------------------------------- | ------------------------------ |
-| [Algorithms, Part 1][3]  | Princeton University |
-| [Algorithms, Part 2][4] | Princeton University |
-| [Computer Science: Algorithms, Theory, and Machines][5]  | Princeton University |
+| Courses | School | Duration (Hours) | Course Content
+|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
+| [Algorithms, Part 1][3]  | Princeton University | 54 Hours | Basic Analysis of Algorithms, Union-Find, Stacks & Queues, Elementary Sorts, Mergesort, Quicksort, Priority Queues, Elementary Symbol Tables, Balanced Search Trees & Geometric Applications, Hash Tables, Symbol Table Applications
+| [Algorithms, Part 2][4] | Princeton University | 62 Hours | Undirected Graphs, Directed Graphs, Minimum Spanning Trees, Shortest Paths, Maximum Flow & Minimal Cut, Radix Sorts, Tries, Substring Search, Regular Expression, Data Compression, Reductions, Linear Programming, Intractibility|
 
+### <ins> 2) Machine Learning
+| Courses | School | Duration (Hours) | Course Content
+|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
+|[Machine Learning Specialization, Part 1: Supervised ML: Regression & Classification ][16]| DeepLearning.AI | 33 Hours | Supervised vs Unsupervised Learning, Regression, Classification (Logisitic Regression) |
+|[Machine Learning Specialization, Part 2: Advanced Learning Algorithms: Regression & Classification][17] | DeepLearning.AI | 34 Hours | Introduction to Neural Networks, Neural Network Training (ForwardPropagation & Backpropagation), Pipeline for developing an ML Model, Decision Trees|
+|[Machine Learning Specialization, Part 3: Unsupervised Learning, Recommenders, Reinforcement Learning][18] | DeepLearning.AI | 27 Hours | Unsupervised Learning (K-Means Clustering), Recommender Systems, Introduction to Reinforcement Learning |
 
-### <ins> 2) Human-Computer Interaction </ins>
-| Course Name                                                                       | School                         |
-| --------------------------------------------------------------------------------- | ------------------------------ |
-| [Human-Computer Interaction][14]  | EdX  |
+### <ins> 3) Theory of Computation
+| Courses | School | Duration (Hours) | Course Content
+|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
+| [Computer Science: Algorithms, Theory, and Machines][5]  | Princeton University | 20 Hours| Introduction to Theory of Computing, Turing Machines, Intractibility, A Computing Machine, Von Neumann Machines, Combinatorial Circuits, CPU|
 
-### <ins> 3) Machine Learning </ins>
-| Course Name                                                                       | School                         |
-| --------------------------------------------------------------------------------- | ------------------------------ |
-| [Machine Learning Specialization][1]  | Standford, DeepLearning.AI  |
+# To-Be Considered
+Further topics to be considered include: HCI, Cryptography & Computer Security, Visual Computing, as well as specialist topics like quantum computing. 
 
-### <ins> 4) Cryptography & Security </ins>
-
-### <ins> 5) Visual Computing & Graphics </ins>
-
-# III - Specialist
 
 
 # Additional Content
-1) [Matt Might's - What Every Computer Science Major Should Know][13]
+1) [Matt Might's - What Every Computer Science Major Should Know][100]
 
 [1]: https://www.coursera.org/learn/build-a-computer
 [2]: https://www.coursera.org/learn/nand2tetris2?irclickid=R9oWrV2sTxyKU4%3A2opRerW%3ApUkHSwRQVX1GL180&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1459666&utm_content=b2c
 [3]: https://www.coursera.org/learn/algorithms-part1
 [4]: https://www.coursera.org/learn/algorithms-part2
 [5]: https://www.coursera.org/learn/cs-algorithms-theory-machines
-[6]: https://www.coursera.org/specializations/machine-learning-introduction
 [7]: https://www.coursera.org/learn/programming-languages
 [8]: https://www.coursera.org/learn/programming-languages-part-b
 [9]: https://www.coursera.org/learn/programming-languages-part-c
 [10]: https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x
 [11]: https://www.coursera.org/learn/computer-networking
 [12]: https://www.coursera.org/learn/introduction-to-databases
-[13]: https://matt.might.net/articles/what-cs-majors-should-know/#:~:text=There%20is%20no%20substitute%20for%20a%20solid%20understanding%20of%20computer,control%20units%2C%20caches%20and%20RAM.
-[14]: https://www.edx.org/certificates/professional-certificate/gtx-human-computer-interaction?webview=false&campaign=Human-Computer+Interaction&source=edx&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fhuman-computer-interaction
+[14]: 
 [15]: https://news.ycombinator.com/item?id=20453241
+[16]: https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction
+[17]: https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
+[18]: https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction
+
+
+
+[100]: https://matt.might.net/articles/what-cs-majors-should-know/#:~:text=There%20is%20no%20substitute%20for%20a%20solid%20understanding%20of%20computer,control%20units%2C%20caches%20and%20RAM.
+
+
