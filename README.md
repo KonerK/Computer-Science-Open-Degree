@@ -60,10 +60,15 @@ In all, this repository marks the knowledge I have set out to learn/sharpen to b
 |:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
 | [Computer Science: Algorithms, Theory, and Machines][5]  | Princeton University | 20 Hours| Introduction to Theory of Computing, Turing Machines, Intractibility, A Computing Machine, Von Neumann Machines, Combinatorial Circuits, CPU|
 
-# To-Be Considered
 Further topics to be considered include: HCI, Cryptography & Computer Security, Visual Computing, as well as specialist topics like quantum computing. 
 
+# III- Specialist
 
+### 1) Data Analyst (Python, SQL)
+| Courses | School | Duration (Hours) | Course Content
+|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
+| [Associate Data Analyst in SQL][19] | DataCamp | 39 Hours | SLQ Commands, Data Manipulation in SQL, PostGreSQL, Introduction to Statistics, Data-Driven Decision Making in SQL, Data Visualization, Data Communication
+| [Data Analyst in Python][20] | DataCamp | 36 Hours | Python, Data Manipulation in Pandas, Statistics in Python, Data Visualization in Seaborn, Sampling, Hypothesis Testing |
 
 # Additional Content
 1) [Matt Might's - What Every Computer Science Major Should Know][100]
@@ -83,8 +88,8 @@ Further topics to be considered include: HCI, Cryptography & Computer Security, 
 [16]: https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction
 [17]: https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
 [18]: https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction
-
-
+[19]: https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql
+[20]: https://app.datacamp.com/learn/career-tracks/data-analyst-with-python
 
 [100]: https://matt.might.net/articles/what-cs-majors-should-know/#:~:text=There%20is%20no%20substitute%20for%20a%20solid%20understanding%20of%20computer,control%20units%2C%20caches%20and%20RAM.
 
