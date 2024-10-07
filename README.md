@@ -2,16 +2,6 @@
 
 # Journey of CS
 
-This repository is a personal marker to keep track of the courses I have completed, or am completing, in order to be a better Computer Scientist. After completeing my CS degree at the University of Bath, I felt as though there was still much for me to master, and so have set out to fill in personal gaps. This repository may serve useful to anyone similarly wanting to study computer science, but does not know where to start.
-
-I have split my learning into a few parts: 'Fundamentals', topics which start to introduce essential skills in computer science (software development, system architecture, etc), 'Advanced', which focuses on more advanced topics, such as Machine Learning and Advanced Algorithms, and finally 'Specialist', which focuses on topics that are really just me exploring my interests as a student of CS.
-
-I think it is an interesting question to ask 'What should a computer scientist know?' Although there are some common themes, there are also some slight inconsistencies. For instance, some cite cyber security as a must know skill as a computer scientist, as well being fluent in [basic unix][13], yet I was taught none of this on my degree (though cyber security seems to have been added to the course content since I have left).  This [post][15] talks about this more, and I agree that it would be highly useful to define a 'minimal set' of knowledge. This minimal set, however, will likely depend on the person, university, or country we are asking, as well as the time in which we are asking the question.
-
-My university highly valued human-computer interaction and AI (as do I) and so there was a lot of focus on these topics, yet other universities may not focus on them as much. Essentially, however, I think the abilitiy to learn is perhaps the most important skill. A mathematician may decide that they would like to work in a field within computer science. Do they need to go learn principles of software development, cyber security, databases, machine learning, networking, HCI, etc before they transition? Clearly not. They would, likely, need to focus on ***what they need to learn*** to do good work in that field. Of course, there are many ifs and buts and so on, and there is a lot more to say on the matter but that is besides the point. 
-
-In all, this repository marks the knowledge I have set out to learn/sharpen to be a better computer scientist. It is mainly a personal repository to keep track of courses I find valuable. Moreover, See ForestKnight for a) and incredible youtube channel, especially for those who love javascript, and b) his recommended courses for teaching yourself a full CS degree : )
-
 # I - Fundamentals
 
 ### <ins> 0) History of Computer Science </ins>
