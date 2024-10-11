@@ -1,6 +1,6 @@
 
 
-# Journey of CS
+# A Journey of Computer Science
 
 # I - Fundamentals
 
