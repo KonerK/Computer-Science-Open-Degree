@@ -9,7 +9,7 @@ I could write endlessly about this, but that is beside the point. This repositor
 
 This repository may be useful for anyone wanting to study computer science but unsure where to start, as many of the topics listed correspond to typical university modules. I recommend checking out Forrest Knight on YouTube for an well-structured approach to self-teaching a computer science degree, along with some excellent JavaScript videos. Of course, this repository will adapt and extend as I explore each course and section. Any code and development work I complete for these courses will be stored here as a personal record. 
 
-Lastly, while this repository focuses on courses to build knowledge, it's important to remember that to know computer science, is to do computer science. If you’re looking to self-teach, these courses will be incredibly helpful, but working on your own personal projects will be equally—if not more—valuable.  If you’re reading this and want to sharpen your cs skills too, good luck; I’m rooting for you.
+Lastly, while this repository focuses on courses to build knowledge, it's important to remember that to know computer science, is to do computer science. If you’re looking to self-teach, these courses will be incredibly helpful, but working on your own personal projects will be equally, if not more, valuable. If you’re reading this and want to sharpen your cs skills too, good luck; I’m rooting for you.
 
 # Syllabus
 
