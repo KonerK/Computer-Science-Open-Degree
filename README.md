@@ -11,9 +11,7 @@ This repository may be useful for anyone wanting to study computer science but u
 
 Lastly, while this repository focuses on courses to build knowledge, it's important to remember that to know computer science, is to do computer science. If you’re looking to self-teach, these courses will be incredibly helpful, but working on your own personal projects will be equally, if not more, valuable. If you’re reading this and want to sharpen your cs skills too, good luck; I’m rooting for you.
 
-# Syllabus
-
-## I - Fundamentals
+# I - Fundamentals
 
 ###  0) History of Computer Science
 
