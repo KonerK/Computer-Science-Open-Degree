@@ -73,6 +73,7 @@ Further topics to be added here include: HCI, Cryptography & Computer Security, 
 
 # Additional Content
 1) [Matt Might's - What Every Computer Science Major Should Know][100]
+2) [HackerNews discussion on the topics every Computer Scientist should understand][101]
 
 [1]: https://www.coursera.org/learn/build-a-computer
 [2]: https://www.coursera.org/learn/nand2tetris2?irclickid=R9oWrV2sTxyKU4%3A2opRerW%3ApUkHSwRQVX1GL180&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1459666&utm_content=b2c
