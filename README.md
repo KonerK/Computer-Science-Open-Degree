@@ -61,7 +61,7 @@ Lastly, while this repository focuses on courses to build knowledge, it's import
 
 Further topics to be added here include: HCI, Cryptography & Computer Security, Visual Computing.
 
-# III- Specialist
+# III - Specialist
 
 ### 1) Data Analyst (Python, SQL)
 | Courses | School | Duration (Hours) | Course Content
