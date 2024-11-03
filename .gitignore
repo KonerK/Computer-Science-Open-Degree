@@ -3,3 +3,37 @@ Icon
 
 TheElementsOfComputingSystems.pdf
 Designing Machine Learning Systems.pdf
+
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
