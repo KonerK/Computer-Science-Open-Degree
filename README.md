@@ -44,8 +44,9 @@ Lastly, while this repository focuses on courses to build knowledge, it's import
 
 | Courses | School | Duration (Hours) | Course Content
 |:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
+| Mathematical Analysis of Algorithms (Art of Computer Programming, Vol 1) | Donald Knuth, Standford University | 30 Hours | Chapter 1: 1.1 - Algorithms, 1.2 - Mathematical Preliminaries (Induction, Numbers, Sums and Productds, Elementary Number Theory, Analysis of an Algorithm, Asymptotic Representations
 | [Algorithms, Part 1][3]  | Princeton University | 54 Hours | Basic Analysis of Algorithms, Union-Find, Stacks & Queues, Elementary Sorts, Mergesort, Quicksort, Priority Queues, Elementary Symbol Tables, Balanced Search Trees & Geometric Applications, Hash Tables, Symbol Table Applications
-| [Algorithms, Part 2][4] | Princeton University | 62 Hours | Undirected Graphs, Directed Graphs, Minimum Spanning Trees, Shortest Paths, Maximum Flow & Minimal Cut, Radix Sorts, Tries, Substring Search, Regular Expression, Data Compression, Reductions, Linear Programming, Intractibility|
+| [Algorithms, Part 2][4] | Princeton University | 62 Hours | Undirected Graphs, Directed Graphs, Minimum Spanning Trees, Shortest Paths, Substring Search, Regular Expression, Data Compression, Reductions|
 
 ### 2) Machine Learning
 | Courses | School | Duration (Hours) | Course Content
@@ -68,6 +69,7 @@ Further topics to be added here include: HCI, Cryptography & Computer Security, 
 |:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
 | [Associate Data Analyst in SQL][19] | DataCamp | 39 Hours | SLQ Commands, Data Manipulation in SQL, PostGreSQL, Introduction to Statistics, Data-Driven Decision Making in SQL, Data Visualization, Data Communication
 | [Data Analyst in Python][20] | DataCamp | 36 Hours | Python, Data Manipulation in Pandas, Statistics in Python, Data Visualization in Seaborn, Sampling, Hypothesis Testing |
+
 
 # Additional Content
 1) [Matt Might's - What Every Computer Science Major Should Know][100]
