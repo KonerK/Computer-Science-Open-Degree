@@ -63,12 +63,6 @@ Further topics to be added here include: HCI, Cryptography & Computer Security, 
 
 # III - Specialist
 
-### 1) Data Analyst (Python, SQL)
-| Courses | School | Duration (Hours) | Course Content
-|:---------------------------------------------------------------------------------|:-----------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------|
-| [Associate Data Analyst in SQL][19] | DataCamp | 39 Hours | SLQ Commands, Data Manipulation in SQL, PostGreSQL, Introduction to Statistics, Data-Driven Decision Making in SQL, Data Visualization, Data Communication
-| [Data Analyst in Python][20] | DataCamp | 36 Hours | Python, Data Manipulation in Pandas, Statistics in Python, Data Visualization in Seaborn, Sampling, Hypothesis Testing |
-
 
 # Additional Content
 1) [Matt Might's - What Every Computer Science Major Should Know][100]
